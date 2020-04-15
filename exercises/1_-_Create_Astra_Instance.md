@@ -5,16 +5,17 @@ Accédez au service `ASTRA` en cliquant sur [https://astra.datastax.com](https:/
 
 ### Register et Login
 
-Utilisez vos identifiants pour vous logger à Astra.
-Use your credentials to log in to ASTRA. Fill out the Log In dialog with your Constellation credentials, and click the Log In button - or register if you are one of the few people left on the earth without a Astra account.
+Utilisez vos identifiants pour vous logger à Astra. Remplissez les champs, et cliquez sur le bouton Log In.
+Vous pouvez également vous identifier via votre compte Google ou Github.
+Enfin, si vous n'avez aucun de ces comptes disponible, cliquez sur le lien `register`.
 
-This is the login form:
+Voici le formulaire de login:
 
-<img src="https://raw.githubusercontent.com/DataStax-Academy/cassandra-workshop-online/master/images/01.png" height="300" />
+<img src="./images/astra_login.jpg" height="300" />
 
-If you need, please sign up using the following form available with the `register` button:
+Si besoin donc, créez un compte via le formulaire si dessous  en cliquant sur le bouton `register`:
 
-<img src="https://raw.githubusercontent.com/DataStax-Academy/cassandra-workshop-online/master/images/02.png" height="300" />
+<img src="./images/astra_register.jpg" height="300" />
 
 
 ### Fill the Create New Database Form
