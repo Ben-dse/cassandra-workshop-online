@@ -1,10 +1,10 @@
-Welcome to the Online Cassandra Developer Workshop
+Bienvenue aux Ateliers DataStax RTE
 ======================================================
 
-In this repository, you'll find everything from the online Cassandra Developer Workshop:
-- Materials used during presentations
-- Hnds-on exercises
-Feel free to bookmark this page for future reference!
+Dans ce repo, vous trouverez tout ce dont vous avez besoin pour ces Ateliers DataStax RTE
+- les présentations
+- les exercices
+Ajoutez cette page à vos bookmarks pour les prochains exercices!
 
 <img src="https://s3.amazonaws.com/datastaxtraining/CaaS/CQLSplash.png" height="200" />
 
