@@ -1,10 +1,11 @@
-# Exercice 1 - Create Astra instance
+# Exercice 1 - Créez votre instace Astra
 
 
-Access to the `ASTRA` service on url [https://astra.datastax.com](https://astra.datastax.com/)
+Accédez au service `ASTRA` en cliquant sur [https://astra.datastax.com](https://astra.datastax.com/)
 
-### Register and Login
+### Register et Login
 
+Utilisez vos identifiants pour vous logger à Astra.
 Use your credentials to log in to ASTRA. Fill out the Log In dialog with your Constellation credentials, and click the Log In button - or register if you are one of the few people left on the earth without a Astra account.
 
 This is the login form:
