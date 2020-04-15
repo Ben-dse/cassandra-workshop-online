@@ -53,7 +53,7 @@ Quelques minutes sont probablement nécessaire pour que votre cluster de 3 noeud
 
 
 Lorsque votre cluster est prêt, vous devriez voir la page suivante :
-<img src="https://raw.githubusercontent.com/DataStax-Academy/cassandra-workshop-online/master/images/06.png" height="100" />
+<img src="https://github.com/Ben-dse/cassandra-workshop-online/blob/master/images/astra_list.png" height="100" />
 
 
 Jetons un oeil à la base de données que vous avez configuré. Dans le block supérieur gauche, vous voyez la base de données et le nom du keyspace. La partie supérieure droite décrit la taille et l'emplacement de votre BDD. Le block inférieur gauche indique ce que cela vous coûte (rien). Enfin, une fois qu'Astra a fini l'initialisation, vous aurez les détails de connection dans la partie inférieure-droite.
