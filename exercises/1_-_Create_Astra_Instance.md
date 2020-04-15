@@ -49,7 +49,7 @@ Remplissez les champs tel que ci dessous:
 Quelques minutes sont probablement nécessaire pour que votre cluster de 3 noeuds soit disponible. Vous recevrez un email de confirmation quand votre base de donnée est prête. Continuons.
 
 
-<img src="https://raw.githubusercontent.com/DataStax-Academy/cassandra-workshop-online/master/images/05.png" height="300" />
+<img src="https://github.com/Ben-dse/cassandra-workshop-online/blob/master/images/astra_init.png" height="300" />
 
 
 Lorsque votre cluster est prêt, vous devriez voir la page suivante :
