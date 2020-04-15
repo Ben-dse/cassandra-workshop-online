@@ -1,4 +1,4 @@
-# Exercice 1 - Créez votre instace Astra
+# Exercice 1 - Créez votre instance Astra
 
 
 Accédez au service `ASTRA` en cliquant sur [https://astra.datastax.com](https://astra.datastax.com/)
