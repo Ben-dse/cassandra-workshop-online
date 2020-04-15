@@ -18,11 +18,12 @@ Si besoin donc, créez un compte via le formulaire si dessous  en cliquant sur l
 <img src="https://github.com/Ben-dse/cassandra-workshop-online/blob/master/images/astra_register.JPG" height="300" />
 
 
-### Fill the Create New Database Form
+### Vous êtes loggés! Remplissez le formulaire pour créer un nouvelle base de données
 
-As you don't have have any instances the login will route through the instance creation form. You will find below which values to enter for each field.
+Vous n'avez (à priori) pas créé d'instance précédement, vous êtes donc dirigés directement vers le formulaire de création d'instance.
+Remplissez les champs tel que ci dessous:
 
-<img src="https://raw.githubusercontent.com/DataStax-Academy/cassandra-workshop-online/master/images/03.png" height="400" />
+<img src="https://github.com/Ben-dse/cassandra-workshop-online/blob/master/images/astra_newdb.JPG" height="400" />
 
 
 - **Set the Compute Size**: For the work we are doing please use `Free tier`. You instance will be there forever, free of charge
