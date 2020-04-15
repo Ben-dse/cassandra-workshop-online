@@ -18,7 +18,7 @@ Si besoin donc, créez un compte via le formulaire si dessous  en cliquant sur l
 <img src="https://github.com/Ben-dse/cassandra-workshop-online/blob/master/images/astra_register.JPG" height="300" />
 
 
-### Vous êtes loggés! Remplissez le formulaire pour créer un nouvelle base de données
+### Vous êtes loggés! Remplissez le formulaire pour créer une nouvelle base de données
 
 Vous n'avez (à priori) pas créé d'instance précédement, vous êtes donc dirigés directement vers le formulaire de création d'instance.
 Remplissez les champs tel que ci dessous:
@@ -44,34 +44,35 @@ Remplissez les champs tel que ci dessous:
 <img src="https://raw.githubusercontent.com/DataStax-Academy/cassandra-workshop-online/master/images/04.png" height="300" />
 
 
-### View your Database and connect
+### Visualiser votre base de données et vous y connecter
 
-View your database. It may take 2-3 minutes for your database to spin up. You will receive an email at that point. But, go ahead and continue with the rest of the exercise now.
+Quelques minutes sont probablement nécessaire pour que votre cluster de 3 noeuds soit disponible. Vous recevrez un email de confirmation quand votre base de donnée est prête. Continuons.
+
 
 <img src="https://raw.githubusercontent.com/DataStax-Academy/cassandra-workshop-online/master/images/05.png" height="300" />
 
 
-Once Database is ready you should see the following home page :
+Lorsque votre cluster est prêt, vous devriez voir la page suivante :
 <img src="https://raw.githubusercontent.com/DataStax-Academy/cassandra-workshop-online/master/images/06.png" height="100" />
 
 
-Let’s review the database you have configured. In the box on the top-left side of the window, you can see the database and keyspace name metadata. The box on the top-right describes the size and location of your database. The lower-left box shows your estimated cost. Once Apollo initializes the database completely, the lower-right box will have connection details.
+Jetons un oeil à la base de données que vous avez configuré. Dans le block supérieur gauche, vous voyez la base de données et le nom du keyspace. La partie supérieure droite décrit la taille et l'emplacement de votre BDD. Le block inférieur gauche indique ce que cela vous coûte (rien). Enfin, une fois qu'Astra a fini l'initialisation, vous aurez les détails de connection dans la partie inférieure-droite.
 
 <img src="https://raw.githubusercontent.com/DataStax-Academy/cassandra-workshop-online/master/images/07.png" height="100" />
 
 
-### Open DataStax Studio
+### Ouvrez DataStax Studio
 
 
-You can click on `Launch Developer Studio` blue button to start the tool. Please enter the credentials you used for Astra instance creation.
+Vous pouvez cliquer sur le bouton bleu `Launch Developer Studio` pour commencer à utiliser l'outil. Utilisez les mêmes identifiants que vous avez utilisé pour créer l'instance Astra.
 
 <img src="https://raw.githubusercontent.com/DataStax-Academy/cassandra-workshop-online/master/images/08.png" height="300" />
 
 
-- **Fill in the Database User name** - `KVUser`. Note the user name is case-sensitive. Please use the case we suggest here.
+- **Remplissez le nom d'utilisateur de la BDD** - `PlasmaUser`. Attention aux majuscules!
 
-- **Fill in the password** - `KVPassword`. Fill in both the password and the confirmation fields. Note that the password is also case-sensitive. Please use the case we suggest here.
+- **Fill in the password** - `PlasmaPass`. Attention aux majuscules!
 
-TADA !
+TADAA !
 
 
