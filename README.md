@@ -6,7 +6,7 @@ Dans ce repo, vous trouverez tout ce dont vous avez besoin pour ces Ateliers Dat
 - les exercices
 Ajoutez cette page à vos bookmarks pour les prochains exercices!
 
-<img src="https://s3.amazonaws.com/datastaxtraining/CaaS/CQLSplash.png" height="200" />
+<img src="./images/img1.JPG" height="200" />
 
 
 ## Available Materials
