@@ -3,8 +3,12 @@
 
 Toutes les information pour cet atelier sont disponibles dans ce repo.
 
-Vous pouvez cloner ce repo avec la commande ci dessous ou le télécharger sous forme zippé.
+Vous pouvez cloner ce repo avec la commande ci dessous:
 
 ```
 git clone https://github.com/Ben-dse/cassandra-workshop-online
 ```
+
+ou le télécharger sous forme zippé à la racine de ce repo:
+
+<img src="./images/img2.JPG" />
