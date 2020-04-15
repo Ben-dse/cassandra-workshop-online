@@ -11,11 +11,11 @@ Enfin, si vous n'avez aucun de ces comptes disponible, cliquez sur le lien `regi
 
 Voici le formulaire de login:
 
-<img src="https://raw.githubusercontent.com/Ben-dse/cassandra-workshop-online/master/images/astra_login.jpg" height="300" />
+<img src="https://github.com/Ben-dse/cassandra-workshop-online/blob/master/images/astra_login.JPG" height="300" />
 
 Si besoin donc, créez un compte via le formulaire si dessous  en cliquant sur le bouton `register`:
 
-<img src="https://raw.githubusercontent.com/Ben-dse/cassandra-workshop-online/master/images/astra_register.jpg" height="300" />
+<img src="https://raw.githubusercontent.com/Ben-dse/cassandra-workshop-online/blob/master/images/astra_register.jpg" height="300" />
 
 
 ### Fill the Create New Database Form
