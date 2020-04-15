@@ -41,7 +41,7 @@ Remplissez les champs tel que ci dessous:
 - **Lancez la base de données**. Une dernière revue, 3, 2, 1, décollage!
 
 
-<img src="https://raw.githubusercontent.com/DataStax-Academy/cassandra-workshop-online/master/images/04.png" height="300" />
+<img src="https://github.com/Ben-dse/cassandra-workshop-online/blob/master/images/04.png" height="300" />
 
 
 ### Visualiser votre base de données et vous y connecter
@@ -66,7 +66,7 @@ Jetons un oeil à la base de données que vous avez configuré. Dans le block su
 
 Vous pouvez cliquer sur le bouton bleu `Launch Developer Studio` pour commencer à utiliser l'outil. Utilisez les mêmes identifiants que vous avez utilisé pour créer l'instance Astra.
 
-<img src="https://raw.githubusercontent.com/DataStax-Academy/cassandra-workshop-online/master/images/08.png" height="300" />
+<img src="https://github.com/Ben-dse/cassandra-workshop-online/blob/master/images/08.png" height="300" />
 
 
 - **Remplissez le nom d'utilisateur de la BDD** - `PlasmaUser`. Attention aux majuscules!
