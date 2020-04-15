@@ -26,19 +26,19 @@ Remplissez les champs tel que ci dessous:
 <img src="https://github.com/Ben-dse/cassandra-workshop-online/blob/master/images/astra_newdb.JPG" height="400" />
 
 
-- **Set the Compute Size**: For the work we are doing please use `Free tier`. You instance will be there forever, free of charge
+- **Compute Size**: Pour nos exercices, utilisez `Free tier`. Votre instance sera gratuite, et disponible sans limitation de durée.
 
-- **Select the region**: This is the region where your database will reside physically (choose one close to you or your users). For people in EMEA please use `europe-west-1` idea here is to reduce latency.
+- **Sélectionnez la région**: Il s'agit de la région ou votre base de donnée sera physiquement présente, il faut donc sélectioner celle la plus proche de l'utilisateur (vous pour cet atelier). Vous êtes à priori en France, choisissez donc `europe-west-1` dans le but de minimiser les latences.
 
-- **Fill in the database name** - `killrvideocluster.` While Astra allows you to fill in these fields with values of your own choosing, please follow our reccomendations to make the rest of the exercises easier to follow. If you don't, you are on your own! :)
+- **Remplissez le nom de la base de données** - `plasmacluster.` Vous pouvez effectivement choisir le nom que vous voulez, mais pour des raisons pratiques, nous vous invitons à suivre nos recommendation pour ne pas être perdus dans la suite des exercices.
 
-- **Fill in the keyspace name** - `killrvideo`. It's really important that you use the name killrvideo (with no 'e' in "killr") here in order for all the exercises to work well. We realize you want to be creative, but please just roll with this one today.
+- **Remplissez le nom du keyspace** - `plasma`. Encore une fois, afin que les exercices fonctionnent correctement, merci de suivre cette demande. Nous savons que vous voulez être créatifs, mais pensez à vos collègues qui devront vous attendre si l'atelier et bloqué pour ce petit écart.
 
-- **Fill in the Database User name** - `KVUser`. Note the user name is case-sensitive. Please use the case we suggest here.
+- **Remplissez le nom d'utilisateur de la BDD** - `PlasmaUser`. Attention aux majuscules!
 
-- **Fill in the password** - `KVPassword`. Fill in both the password and the confirmation fields. Note that the password is also case-sensitive. Please use the case we suggest here.
+- **Remplissez le mot de passe** - `PlasmaPass`. Remplissez les deux champs mot de passe et confirmation. A nouveau attention aux majuscules.
 
-- **Launch the database**. Review all the fields to make sure they are as shown, and click the Launch Database button.
+- **Lancez la base de données**. Une dernière revue, 3, 2, 1, décollage!
 
 
 <img src="https://raw.githubusercontent.com/DataStax-Academy/cassandra-workshop-online/master/images/04.png" height="300" />
